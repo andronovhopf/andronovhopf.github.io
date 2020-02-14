@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+permalink: /
+author_profile: true
+header:
+    image: /assets/images/gan_faces_narrow.png
+    caption: "Samples from a generative adversarial neural network training on videos of myself."
 ---
