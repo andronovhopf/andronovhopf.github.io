@@ -1,1 +1,0 @@
-# andronovhopf.github.io
