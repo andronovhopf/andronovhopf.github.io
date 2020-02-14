@@ -21,9 +21,11 @@
 title: ""
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 minimal_mistakes_skin: "mint"
 include: ["_pages"]
