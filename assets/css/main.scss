@@ -21,3 +21,9 @@ $link-color: #A71D31 !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.year {
+	/*line-height: 1em;*/
+    color: #aaa;
+    position: absolute;
+	left: -20%;
+}

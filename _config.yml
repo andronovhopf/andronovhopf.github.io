@@ -30,6 +30,11 @@ plugins:
 minimal_mistakes_skin: "mint"
 include: ["_pages"]
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Site Author
 author:
   name             : "Elle O'Brien, Ph.D."
