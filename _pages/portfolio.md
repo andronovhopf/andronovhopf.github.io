@@ -4,6 +4,7 @@ layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
+classes: wide
 ---
 
-More coming soon. Here are a few things I've been up to. 
+Here are a few things I've been up to. 

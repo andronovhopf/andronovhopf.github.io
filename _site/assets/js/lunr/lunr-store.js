@@ -9,8 +9,13 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/portfolio/historical_biographies/",
         "teaser":"https://i0.wp.com/acousticstoday.org/wp-content/uploads/2015/07/ASA-LogoFINAL.jpg"},{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "Reimagining DevOps for Machine Learning",
+        "excerpt":"In March 2020 I particpated in DivOps, which is a totally-online meeting led by women in DevOps (DevOps is the intersection of software development and operations). Check out my ten minute talk about continuous integration &amp; delivery with machine learning. It’s got fuzzy baby animals.    ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2020/02/13/welcome-to-jekyll.html",
+        "url": "http://localhost:4000/portfolio/reimagining_devops_for_ml/",
+        "teaser":"https://dvc.org/static/2b591af83211b638e70f8a4849fe3d0c/35cfd/cover_image.webp"},{
+        "title": "Books that taught me (data) science",
+        "excerpt":"Being stuck inside, my reading time has grown enormously these past few weeks. I often find that learning can be a good place to put mental energy that otherwise has nowhere to go. If you’re craving a read right now under the big umbrella of science and tech, here are...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2020/04/02/books-data-science.html",
         "teaser":null}]

@@ -39,8 +39,8 @@ collections:
 author:
   name             : "Elle O'Brien, Ph.D."
   #avatar           : "/assets/images/elle.jpg"
-  bio              : "I am an person."
-  location         : "San Francisco"
+  bio              : "Data scientist @ [DVC](dvc.org)"
+  location         : "Seattle, WA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
