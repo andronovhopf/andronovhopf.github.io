@@ -2,7 +2,6 @@
 layout: single
 title:  "Books that taught me (data) science"
 date:   2020-04-02
-
 ---
 
 Being stuck inside, my reading time has grown enormously these past few weeks. I often find that learning can be a good place to put mental energy that otherwise has nowhere to go.  If you're craving a read right now under the big umbrella of science and tech, here are a few books that I've benefitted from and which I recommend wholeheartedly. Some are practical and hands-on and others reflective; each has affected my thinking as a (data) scientist.
@@ -34,7 +33,7 @@ For example: if you think (as I did before class) that linear regression, that t
 
 _Note: the PDF is [available freely online](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf). If you're going it solo, I expect some of these chapters would pair nicely with videos from Andrew Ng's "Machine Learning" [course on YouTube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN). Personally, having lectures in addition to the textbook was invaluable._ 
 
-## [The Beautiful Brain: The Drawings of Ramon y Cajal](https://www.amazon.com/Beautiful-Brain-Drawings-Santiago-Ramon/dp/1419722271/ref=sr_1_1?dchild=1&keywords=the+beautiful+brain&qid=1586116257&s=books&sr=1-1), _Swanson et al._
+## [The Beautiful Brain: The Drawings of Santiago Ramon y Cajal](https://www.amazon.com/Beautiful-Brain-Drawings-Santiago-Ramon/dp/1419722271/ref=sr_1_1?dchild=1&keywords=the+beautiful+brain&qid=1586116257&s=books&sr=1-1), _Swanson et al._
 
 <img src="/assets/images/cajal_book.jpg" alt="cajal" width="250" style="float:left;margin:0px 25px">
 
@@ -46,8 +45,10 @@ Like _Chaos_, this is another book that helped me stick with science at a moment
 _Note: for more incredible biological data viz from the pre-digital era, [see here](https://www.amazon.com/gp/product/0810997983/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1). Also note that Cajal is the author of a slim guide for scientists called [Advice for a Young Investigator](https://www.amazon.com/Advice-Young-Investigator-Bradford-Book-ebook/dp/B001949XYK/ref=sr_1_1?dchild=1&keywords=cajal+young+investigator&qid=1586118767&s=books&sr=1-1)._
 
 ***
+What are you reading? Did you like these books? Let me know what you think with a question or comment. 
 
 
-
-
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
 

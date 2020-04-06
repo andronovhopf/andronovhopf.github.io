@@ -30,6 +30,11 @@ plugins:
 minimal_mistakes_skin: "mint"
 include: ["_pages"]
 
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: elle-obrien-com
+
 collections:
   portfolio:
     output: true
@@ -39,7 +44,7 @@ collections:
 author:
   name             : "Elle O'Brien, Ph.D."
   #avatar           : "/assets/images/elle.jpg"
-  bio              : "Data scientist @ [DVC](dvc.org)"
+  bio              : "Data scientist @ [DVC](https://dvc.org)"
   location         : "Seattle, WA"
   links:
     - label: "Email"
