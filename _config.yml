@@ -43,7 +43,7 @@ collections:
 # Site Author
 author:
   name             : "Elle O'Brien, Ph.D."
-  #avatar           : "/assets/images/elle.jpg"
+  avatar           : /assets/images/headshot.png
   bio              : "Data scientist @ [DVC](https://dvc.org)"
   location         : "Seattle, WA"
   links:

@@ -3,6 +3,7 @@ layout: single
 title:  "Books that taught me (data) science"
 date:   2020-04-02
 comments: true
+share: true
 ---
 
 Being stuck inside, my reading time has grown enormously these past few weeks. I often find that learning can be a good place to put mental energy that otherwise has nowhere to go.  If you're craving a read right now under the big umbrella of science and tech, here are a few books that I've benefitted from and which I recommend wholeheartedly. Some are practical and hands-on and others reflective; each has affected my thinking as a (data) scientist.
