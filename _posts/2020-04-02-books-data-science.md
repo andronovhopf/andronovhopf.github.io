@@ -48,7 +48,4 @@ _Note: for more incredible biological data viz from the pre-digital era, [see he
 What are you reading? Did you like these books? Let me know what you think with a question or comment. 
 
 
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}
 
