@@ -57,5 +57,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andronovhopf"
 
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-162883932-1"
+    anonymize_ip: false # default
 
