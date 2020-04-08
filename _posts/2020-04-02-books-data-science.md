@@ -48,8 +48,7 @@ Like _Chaos_, this is another book that helped me stick with science at a moment
 
 _Note: for more incredible biological data viz from the pre-digital era, [see here](https://www.amazon.com/gp/product/0810997983/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1). Also note that Cajal is the author of a slim guide for scientists called [Advice for a Young Investigator](https://www.amazon.com/Advice-Young-Investigator-Bradford-Book-ebook/dp/B001949XYK/ref=sr_1_1?dchild=1&keywords=cajal+young+investigator&qid=1586118767&s=books&sr=1-1)._
 
-***
-What are you reading? Did you like these books? Let me know what you think with a question or comment. 
+
 
 
 
