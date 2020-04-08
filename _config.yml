@@ -30,10 +30,6 @@ plugins:
 minimal_mistakes_skin: "mint"
 include: ["_pages"]
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "elle-obrien-com"
 
 collections:
   portfolio:
