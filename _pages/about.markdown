@@ -44,6 +44,7 @@ University*
 <br/>
 
 ### Grants, honors & awards
+<p class="year">2020</p> Young Scientist Award, *Virtual Conference on Computational Audiology*
 
 <p class="year">2017-19</p> Auditory Neuroscience Training Grant, *National Institutes of Health (T32)*  
 
@@ -133,6 +134,13 @@ Neuroscience Retreat
 <p class="year">2017</p>"Measuring change detection and certainty in the auditory system", Australian Hearing Hub  
 
 #### Conference presentations
+<p class="year">2020</p> O’Brien G.E., “Packaging data and machine learning models for sharing", *SciPy 2020* 
+
+<p class="year">2020</p> O’Brien G.E., “The technical burden of machine learning in computational audiology", *Virtual Conference on Computational Audiology* 
+
+<p class="year">2020</p> O’Brien G.E., “Adapting continuous integration and continuous delivery for ML", *MLOps Production & Engineering World 2020* 
+
+<p class="year">2020</p> O’Brien G.E., “Reimagining DevOps for ML", *DivOps 2020* 
 
 <p class="year">2019</p> O’Brien G.E., “Generative Adversarial Network Self-Portrait", *NeurIPS Workshop on Machine Learning for Creativity and Design* 
 
