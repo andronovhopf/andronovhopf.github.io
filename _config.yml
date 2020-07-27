@@ -45,13 +45,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:andronovhopf@gmail.com
+      url: mailto:elleobrien11@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/andronovhopf
+      url: https://twitter.com/DrElleOBrien
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/andronovhopf"
+      url: "https://github.com/elleobrien"
 
 analytics:
   provider: "google-gtag"
