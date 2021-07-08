@@ -40,15 +40,12 @@ collections:
 author:
   name             : "Elle O'Brien, Ph.D."
   avatar           : /assets/images/headshots-elle-obrien-025-linkedin.jpg
-  bio              : "Data scientist @ [DVC](https://dvc.org)"
+  bio              : "Lecturer & Research Investigator at the University of Michigan School of Information"
   location         : "Seattle, WA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:elleobrien11@gmail.com
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/DrElleOBrien
+      url: mailto:elleobri@umich.edu
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elleobrien"
